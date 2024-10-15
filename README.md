@@ -1,2 +1,2 @@
 This is my new LocalRepo
-Insert new line
+Insert new line 2
